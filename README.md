@@ -31,7 +31,7 @@ Uses the gruvbox-material **medium** background with **material** foreground var
 ## Install
 
 ```bash
-omarchy-theme-install https://github.com/curbol/gruvbox-material-omarchy
+omarchy-theme-install https://github.com/curbol/omarchy-gruvbox-material
 ```
 
 This installs the theme as `gruvbox-material` and applies it immediately.
