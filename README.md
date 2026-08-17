@@ -7,6 +7,8 @@ orange accents.
 Uses the gruvbox-material **medium** background with the **material** foreground
 variant, dark, with orange `#e78a4e` as the accent.
 
+![Gruvbox Material](preview.png)
+
 ## Install
 
 ```bash
