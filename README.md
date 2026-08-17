@@ -98,21 +98,27 @@ network connection once; afterwards it is cached like any other plugin.
 
 ## Backgrounds
 
-| File | Credit |
-|---|---|
-| `1-autumn-canopy.jpg` | Clay Banks, [Unsplash](https://unsplash.com/photos/Jya99orvzSE) |
-| `2-mossy-stones.jpg` | unknown, see below |
-| `3-tangerines.jpg` | unknown, see below |
-| `4-fallen-leaves.jpg` | Kristian Seedorff, [Unsplash](https://unsplash.com/photos/BvUicqkaZZ0) |
-| `omarchy.png` | Omarchy wordmark, recoloured |
+All four photographs come from the
+[Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/) collection
+([AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)),
+from its `wallpapers/photography/` set.
 
-The two Unsplash photographs are used under the
+| File | Collection filename | Photographer |
+|---|---|---|
+| `1-autumn-canopy.jpg` | `clay-banks-Jya99orvzSE.jpg` | Clay Banks, [Unsplash](https://unsplash.com/photos/Jya99orvzSE) |
+| `2-mossy-stones.jpg` | `moss.jpg` | not identified |
+| `3-tangerines.jpg` | `tangerines.jpg` | not identified |
+| `4-fallen-leaves.jpg` | `kristian-seedorff-BvUicqkaZZ0.jpg` | Kristian Seedorff, [Unsplash](https://unsplash.com/photos/BvUicqkaZZ0) |
+| `omarchy.png` | n/a | Omarchy wordmark, recoloured |
+
+Two of the four carry an Unsplash photo id in their collection filename, and
+both resolve to the photographs shown; those are used under the
 [Unsplash License](https://unsplash.com/license).
 
-`2-mossy-stones.jpg` and `3-tangerines.jpg` carry no embedded metadata and their
-origin has not been established, so no source or licence is claimed for them
-here. If you recognise either photograph, please open an issue so it can be
-credited properly.
+The other two are named only `moss.jpg` and `tangerines.jpg` upstream, carry no
+embedded metadata, and the collection records no photographer or licence for
+them, so none is claimed here. If you took either photograph, or know who did,
+please open an issue so it can be credited properly.
 
 `omarchy.png`, `unlock.png` and `preview-unlock.png` are derived from the
 Omarchy wordmark, recoloured to this palette. Omarchy is MIT licensed; see
