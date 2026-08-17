@@ -67,7 +67,7 @@ omarchy plymouth set-by-theme gruvbox-material
   the upstream author's own port
 - btop, Obsidian, helix, gum, Chromium: generated from the palette
 - Boot and login: Plymouth splash and SDDM login screen
-- Icons: Yaru
+- Icons: Yaru-yellow
 - Backgrounds: four wallpapers plus the branded Omarchy wordmark
 
 ## Backgrounds
