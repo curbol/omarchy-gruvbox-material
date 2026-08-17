@@ -37,7 +37,7 @@ there rather than by eye: `muted` is its `Comment` colour, `selection` is its
 ### Surfaces and text
 
 | Role | Colour | Upstream |
-|---|---|---|
+| --- | --- | --- |
 | Background | `#282828` | `bg0` |
 | Dark background | `#1b1b1b` | `bg_dim` |
 | Darker background | `#141414` | derived |
@@ -53,7 +53,7 @@ there rather than by eye: `muted` is its `Comment` colour, `selection` is its
 ### Hues
 
 | Role | Colour | Upstream |
-|---|---|---|
+| --- | --- | --- |
 | Red | `#ea6962` | `red` |
 | Orange | `#e78a4e` | `orange` |
 | Yellow | `#d8a657` | `yellow` |
@@ -104,7 +104,7 @@ All four photographs come from the
 from its `wallpapers/photography/` set.
 
 | File | Collection filename | Photographer |
-|---|---|---|
+| --- | --- | --- |
 | `1-autumn-canopy.jpg` | `clay-banks-Jya99orvzSE.jpg` | Clay Banks, [Unsplash](https://unsplash.com/photos/Jya99orvzSE) |
 | `2-mossy-stones.jpg` | `moss.jpg` | not identified |
 | `3-tangerines.jpg` | `tangerines.jpg` | not identified |
